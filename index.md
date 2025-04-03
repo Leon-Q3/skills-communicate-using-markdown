@@ -17,3 +17,7 @@ string nombre = Leo;
 <meta charset="UTF-8">
 </head>
 ```
+
+- [ ] la primera casilla
+- [x] segunda casilla (esta esta marcada)
+- [ ] tercera casilla
